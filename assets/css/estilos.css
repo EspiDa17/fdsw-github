@@ -15,6 +15,24 @@ body {
   color: black;
 }
 
+.btn-info {
+  color: #000;
+  background-color: #205d9b;
+  border-color: #000000;
+}
+
+.btn-outline-info {
+  background-color: #205d9b;
+  border-color: #000000;
+}
+
+.btn:hover {
+  color: #000;
+}
+
+
+/* color: rgba(var(--bs-light-rgb), var(--bs-text-opacity)) !important; */
+
 /* Mis trabajos */
 
 #Mis-trabajos .image-top {
@@ -23,6 +41,7 @@ body {
   background-size: cover;
   background-position: center;
 }
+
 
 /* Contacto */
 
